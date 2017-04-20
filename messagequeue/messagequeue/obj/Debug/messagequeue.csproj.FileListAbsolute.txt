@@ -1,0 +1,8 @@
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\messagequeue\messagequeue\bin\Debug\messagequeue.exe.config
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\messagequeue\messagequeue\bin\Debug\messagequeue.exe
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\messagequeue\messagequeue\bin\Debug\messagequeue.pdb
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\messagequeue\messagequeue\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\messagequeue\messagequeue\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\messagequeue\messagequeue\obj\Debug\messagequeue.csprojResolveAssemblyReference.cache
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\messagequeue\messagequeue\obj\Debug\messagequeue.exe
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\messagequeue\messagequeue\obj\Debug\messagequeue.pdb

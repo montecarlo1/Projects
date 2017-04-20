@@ -1,0 +1,9 @@
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\VisionOCR\VisionOCR\bin\Debug\VisionOCR.exe.config
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\VisionOCR\VisionOCR\bin\Debug\VisionOCR.exe
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\VisionOCR\VisionOCR\bin\Debug\VisionOCR.pdb
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\VisionOCR\VisionOCR\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\VisionOCR\VisionOCR\obj\Debug\VisionOCR.csprojResolveAssemblyReference.cache
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\VisionOCR\VisionOCR\obj\Debug\VisionOCR.exe
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\VisionOCR\VisionOCR\obj\Debug\VisionOCR.pdb
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\VisionOCR\VisionOCR\bin\Debug\Newtonsoft.Json.dll
+c:\users\v-lxiaob\documents\visual studio 2015\Projects\VisionOCR\VisionOCR\bin\Debug\Newtonsoft.Json.xml
