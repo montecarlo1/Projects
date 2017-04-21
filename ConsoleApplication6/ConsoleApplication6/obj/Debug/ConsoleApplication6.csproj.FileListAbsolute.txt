@@ -1,6 +1,0 @@
-c:\users\v-lxiaob\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
-C:\Users\v-lxiaob\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
-C:\Users\v-lxiaob\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
-C:\Users\v-lxiaob\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
-C:\Users\v-lxiaob\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
-C:\Users\v-lxiaob\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
