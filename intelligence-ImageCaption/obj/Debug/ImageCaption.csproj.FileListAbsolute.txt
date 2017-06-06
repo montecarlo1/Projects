@@ -1,0 +1,82 @@
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\ImageCaption.dll.config
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\ImageCaption.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\ImageCaption.pdb
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Autofac.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Chronic.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.Bot.Builder.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.Bot.Connector.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Newtonsoft.Json.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\System.Net.Http.Formatting.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\System.Web.Http.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\System.Web.Http.WebHost.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Autofac.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.Bot.Builder.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.Bot.Connector.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\Newtonsoft.Json.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\System.Net.Http.Formatting.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\System.Web.Http.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\System.Web.Http.WebHost.xml
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\obj\Debug\ImageCaption.csprojResolveAssemblyReference.cache
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\obj\Debug\ImageCaption.dll
+C:\Users\v-lxiaob\Desktop\intelligence-ImageCaption\obj\Debug\ImageCaption.pdb
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\ImageCaption.dll.config
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\ImageCaption.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\ImageCaption.pdb
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Autofac.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Chronic.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.Bot.Builder.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.Bot.Connector.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Newtonsoft.Json.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\System.Net.Http.Formatting.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\System.Web.Http.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\System.Web.Http.WebHost.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Autofac.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.Bot.Builder.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.Bot.Connector.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\Newtonsoft.Json.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\System.Net.Http.Formatting.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\System.Web.Http.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\System.Web.Http.WebHost.xml
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\obj\Debug\ImageCaption.csprojResolveAssemblyReference.cache
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\obj\Debug\ImageCaption.dll
+C:\Users\v-lxiaob\Documents\Visual Studio 2015\Projects\intelligence-ImageCaption\obj\Debug\ImageCaption.pdb

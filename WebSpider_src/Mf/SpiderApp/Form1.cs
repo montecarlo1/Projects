@@ -194,6 +194,7 @@ namespace Spider
             0,
             0,
             0});
+            //this.spnProcessUriMax.ValueChanged += new System.EventHandler(this.spnProcessUriMax_ValueChanged);
             // 
             // txtUri
             // 
