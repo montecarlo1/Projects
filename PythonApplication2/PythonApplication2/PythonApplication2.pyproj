@@ -25,7 +25,13 @@
     <Compile Include="elec_lung.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="myfft.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PythonApplication2.py" />
+    <Compile Include="unet.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="CVfolds_2.txt" />
