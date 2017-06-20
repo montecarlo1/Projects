@@ -320,8 +320,8 @@ int main(int argc, char* argv[])
 	//cvDestroyAllWindows();
 
 
-	//IplImage *res, *dst;
-	//CvRect rect;
+	IplImage *res, *dst;
+	CvRect rect;
 	//map<int, int> adjust_map;
 	//adjust_map[300] = 70;
 	//adjust_map[683] = 35;
@@ -329,35 +329,34 @@ int main(int argc, char* argv[])
 	//adjust_map.insert(make_pair(1678, 300));
 	//int x[] = {300,683,883,1678};
 	//int width[] = {70,35,240,300};
-
 	//for (map<int, int>::iterator iter = adjust_map.begin(); iter != adjust_map.end(); ++iter) {
 	//	//sprintf_s(*iter);
 	//}
-	/*int name[] = { 2,3,4 };
+	//int name[] = { 2,3,4 };
+	int i = 0;
+	char szName[1000] = { 0 };
+	rect.x = 693;
+	rect.width = 370;		
+	res = cvLoadImage("F:\\3_9.png");
+	rect.height = 43;
+	rect.y = 720;
+	dst = cvCreateImage(cvSize(rect.width, rect.height), 8, 3);																  
+	cvNamedWindow("res", CV_WINDOW_AUTOSIZE);
+	cvNamedWindow("dst", CV_WINDOW_AUTOSIZE);
+	cvSetImageROI(res, rect);
+	cvCopy(res, dst);
 
-	char szName[100] = { 0 };
-	for (int i = 0; i < 4; i++)
-	{
-		rect.x = x[i];
-		rect.width = width[i];		
-		res = cvLoadImage("F:\\00.jpg");
-		rect.height = 40;
-		rect.y = 320;
-		dst = cvCreateImage(cvSize(rect.width, rect.height), 8, 3);																  
-		cvNamedWindow("res", CV_WINDOW_AUTOSIZE);
-		cvNamedWindow("dst", CV_WINDOW_AUTOSIZE);
-		cvSetImageROI(res, rect);
-		cvCopy(res, dst);
-		cvResetImageROI(res);
-		cvShowImage("res", res);
-		cvShowImage("dst", dst);
-		sprintf_s(szName, "F:\\mypicture\\%d.jpg", i);
-		cvSaveImage(szName, dst);
-	}
+	cvResetImageROI(res);
+	cvShowImage("res", res);
+	cvShowImage("dst", dst);
+	sprintf_s(szName, "F:\\mypicture\\%d.jpg", i);
+	cvSaveImage(szName, dst);
 	cvWaitKey(0);
+
 	cvDestroyWindow("res");
 	cvDestroyWindow("dst");
+
 	cvReleaseImage(&res);
-	cvReleaseImage(&dst);	*/
+	cvReleaseImage(&dst);	
 	return 0;
 }
